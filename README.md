@@ -1,5 +1,23 @@
 # Dataset_for_CV
-training dataset preparation
+
+### Literature
+#### Chest X-ray Disease Diagnosis
+
+
+
+
+
+
+### Dataset
+#### X-ray
+- NIH Chest X-ray Dataset
+- CheXpert Dataset
+- JSRT Dataset
+
+
+
+
+### training dataset preparation
 
 
 
