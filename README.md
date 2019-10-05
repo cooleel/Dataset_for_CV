@@ -1,7 +1,9 @@
 # Dataset_for_CV
 
 ### Literature
-#### Chest X-ray Disease Diagnosis
+#### Chest X-ray Disease Diagnosis 
+[CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison](https://arxiv.org/abs/1901.07031)  
+[SDFN: Segmentation-based Deep Fusion Network for Thoracic Disease Classification in Chest X-ray Images](https://arxiv.org/abs/1810.12959)
 
 
 
