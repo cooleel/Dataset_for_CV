@@ -12,9 +12,9 @@
 
 ### Dataset
 #### X-ray
-- NIH Chest X-ray Dataset
-- CheXpert Dataset
-- JSRT Dataset
+- [NIH Chest X-ray Dataset](https://www.kaggle.com/nih-chest-xrays/data)
+- [CheXpert Dataset](https://stanfordmlgroup.github.io/competitions/chexpert/)
+- [JSRT Dataset](http://db.jsrt.or.jp/eng.php)
 
 
 
