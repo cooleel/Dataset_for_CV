@@ -2,12 +2,12 @@
 
 ### Literature
 #### Chest X-ray Disease Diagnosis 
-[CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison](https://arxiv.org/abs/1901.07031)  
-[SDFN: Segmentation-based Deep Fusion Network for Thoracic Disease Classification in Chest X-ray Images](https://arxiv.org/abs/1810.12959)
+- [CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison](https://arxiv.org/abs/1901.07031)  
+- [SDFN: Segmentation-based Deep Fusion Network for Thoracic Disease Classification in Chest X-ray Images](https://arxiv.org/abs/1810.12959)
 
 #### Table detection and table structure recognition
-[TableBank: Table Benchmark for Image-based Table Detection and Recognition](https://arxiv.org/abs/1903.01949)
-[Rethinking Table Recognition using Graph Neural Networks](https://arxiv.org/pdf/1905.13391v2.pdf)
+- [TableBank: Table Benchmark for Image-based Table Detection and Recognition](https://arxiv.org/abs/1903.01949)  
+- [Rethinking Table Recognition using Graph Neural Networks](https://arxiv.org/pdf/1905.13391v2.pdf)
 
 
 
