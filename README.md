@@ -5,6 +5,10 @@
 [CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison](https://arxiv.org/abs/1901.07031)  
 [SDFN: Segmentation-based Deep Fusion Network for Thoracic Disease Classification in Chest X-ray Images](https://arxiv.org/abs/1810.12959)
 
+#### Table detection and table structure recognition
+[TableBank: Table Benchmark for Image-based Table Detection and Recognition](https://arxiv.org/abs/1903.01949)
+[Rethinking Table Recognition using Graph Neural Networks](https://arxiv.org/pdf/1905.13391v2.pdf)
+
 
 
 
@@ -16,12 +20,12 @@
 - [CheXpert Dataset](https://stanfordmlgroup.github.io/competitions/chexpert/)
 - [JSRT Dataset](http://db.jsrt.or.jp/eng.php)
 
-
+#### Table
+- [TableBank](https://doc-analysis.github.io/)
+- [2013ICDAR table competition dataset](https://roundtrippdf.com/en/downloads/)
 
 
 ### training dataset preparation
-
-
 
 ### scalabel
 **problem in uploading the data**   
